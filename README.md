@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fast API Project
 
 A FastAPI application for building modern APIs with Python.
@@ -96,7 +95,4 @@ See `requirements.txt` for the list of dependencies.
 
 I prefer to use Postman to test the APIs. If you want to use it, you must download Postman first.
 Alternatively, you can test the APIs via http://localhost:8000/docs. It is more simpler, but has limited capabilities compared to Postman.
-=======
-# fast-api
-Small app to learn Fast-Api framework
->>>>>>> d1b78befbaaf64ca15456490532f155aca550e9a
+
